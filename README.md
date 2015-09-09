@@ -1,2 +1,4 @@
 # HeartMesh
-python tool to generate meshed from ct images
+python tool to generate meshes from ct images
+
+To be done
